@@ -42,5 +42,3 @@ The above image shows us how the SSUOS scheduler works. The procedures of the sc
      8. The process waiting for I/O will not be scheduled.
 
      9. While context switching, the processes except 'idle' process have to maintain 'tick' value.
-
-[OBJECTS]
